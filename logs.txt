@@ -1,0 +1,24 @@
+vasil@DESKTOP-DMPBC69 MINGW64 ~/Desktop/SI_2023_lab1_213009 (master)
+$ git log
+commit 9cd715e9b306587ba0302cf5336b5828cb8c33bc (HEAD -> master, origin/master, bug3)
+Author: SaraVasileva <vasilevasara96@gmail.com>
+Date:   Sat Apr 1 01:29:33 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 7df985d871f2d686e82fa0fe25b8c557bfaa3c85
+Merge: 0c06b10 c4f4b87
+Author: SaraVasileva <vasilevasara96@gmail.com>
+Date:   Sat Apr 1 01:32:06 2023 +0200
+
+    Merge branch 'bug2'
+
+commit c4f4b8792268f3a99800f510f8407810d02365a6 (origin/bug2, bug2)
+Author: SaraVasileva <vasilevasara96@gmail.com>
+Date:   Sat Apr 1 01:28:31 2023 +0200
+
+    Fix wrong codition in filterOddNumbers
+
+commit 0c06b1069f178b4fd2877064654614580464b838 (origin/bug1, bug1)
+Author: SaraVasileva <vasilevasara96@gmail.com>
+Date:   Sat Apr 1 01:27:32 2023 +0200
